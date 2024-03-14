@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoran Wang(王浩然)"
+  name             : "Haoran Wang"
   avatar           : "images/me.jpeg"
-  bio              : "University of Chinese Academy of Sciences"
+  bio              : #
   location         : "Beijing, China"
   employer         :
   pubmed           : 
